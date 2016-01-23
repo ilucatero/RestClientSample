@@ -1,0 +1,9 @@
+coreCountry,geo_position,distance,_id,inEurope,name,countryCode,locationId,iata_airport_code,fullName,type,key,country
+true,"{longitude:2.3488,latitude:48.85341}",null,379727,true,Paris,FR,11914,null,"Paris, France",location,null,France
+true,"{longitude:4.63369,latitude:46.915}",null,16808158,true,Paris-l'Hopital,FR,318024,null,"Paris-l'Hopital, France",location,null,France
+true,"{longitude:2.20491,latitude:48.97111}",null,379354,true,Cormeilles-en-Parisis,FR,11541,null,"Cormeilles-en-Parisis, France",location,null,France
+true,"{longitude:5.69387,latitude:45.17676}",null,379890,true,Seyssinet-Pariset,FR,12077,null,"Seyssinet-Pariset, France",location,null,France
+true,"{longitude:2.577134,latitude:49.0029701}",null,315042,true,Paris Charles De Gaulle,FR,null,CDG,"Paris Charles De Gaulle (CDG), France",airport,null,France
+true,"{longitude:2.364111,latitude:48.72613}",null,315043,true,Paris Orly,FR,null,ORY,"Paris Orly (ORY), France",airport,null,France
+true,"{longitude:2.3586696,latitude:48.8762098}",null,320759,true,Paris Gare de l'Est,FR,null,null,"Paris Gare de l'Est, France",station,null,France
+true,"{longitude:2.354924,latitude:48.880472}",null,320757,true,Paris Gare du Nord,FR,null,null,"Paris Gare du Nord, France",station,null,France
